@@ -1,6 +1,6 @@
 # EEG Motion Imaginary – Biosignal Acquisition and Processing
 
-Course assignment for **Biosignal Acquisition and Processing** (NTUA, 2024–2025), analyzing EEG data from a motor imagery experiment.
+Course assignment for **Biosignal Acquisition and Processing** (NTUA, Academic Year 2024–2025), analyzing EEG data from a motor imagery experiment.
 
 ## Overview
 - Two conditions: **Both** (imagined movement with both hands) and **None** (rest).
